@@ -7,3 +7,6 @@
   * Model evaluation: Achieved a 97 % Accuraccy using Logistic regression .
  
  ![](https://github.com/chaarimohamed/Potfolio_Project/blob/main/features.png)
+
+# Project 2 : Building a chatbot 
+![] (https://github.com/chaarimohamed/Potfolio_Project/blob/main/chatbot.jpeg)
