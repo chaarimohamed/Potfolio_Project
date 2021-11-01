@@ -5,3 +5,5 @@
   * Dimentionality reduction : Extracted the most important variables that have most impact on the target variable.
   * Feature engennering : Used different types of scaling to get optimal results.
   * Model evaluation: Achieved a 97 % Accuraccy using Logistic regression .
+ 
+ ![](https://github.com/chaarimohamed/Potfolio_Project/blob/main/features.png)
