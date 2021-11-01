@@ -1,4 +1,4 @@
-#Portfolio projects
+# Portfolio project
 
 # [Project 1 :Breast cancer detection : Project overview](https://github.com/chaarimohamed/Breast_cancer_detection) 
   * EDA : Effectively visualized different plots(histogram,pie chart,correlation heatmap) to better understand our features.
